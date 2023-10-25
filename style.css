@@ -8,7 +8,12 @@ h1{
 
 p {
     text-align:center;
-    color: black;
+}
+#texto1 {
+color:aqua 
+}
+#texto2 {
+    color: aquamarine;
 }
 
 em strong {
