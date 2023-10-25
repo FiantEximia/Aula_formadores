@@ -19,3 +19,8 @@ color:aqua
 em strong {
     color: #FF0000;
 }
+.destaques {
+    color: rgb (255,0,255);
+    font-size: 35;
+    font-style: italic;
+}
