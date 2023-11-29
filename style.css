@@ -1,12 +1,9 @@
-body {
-
-}
 
 .principal{
-    background: #CCCCCC;
+    background: #cccccc;
     padding: 30px;
 }
-}
+
 h1{
     text-align:center;
     color: darkblue;
@@ -14,6 +11,10 @@ h1{
 
 p {
     text-align:center;
+}
+#banner{
+    text-align: center;
+    width: 125%;
 }
 #texto1 {
 color:aqua 
@@ -54,4 +55,14 @@ ul {
 }
 .imagembeneficios {
     width: 50%;
+}
+header{
+    padding: 20px;
+    background-color: cadetblue;
+    border-bottom: #FF0000;
+    color: aliceblue;
+    font-size: 20px;
+}
+#menu {
+    font-size: 20px;
 }
