@@ -13,8 +13,11 @@ p {
     text-align:center;
 }
 #banner{
-    text-align: center;
-    width: 125%;
+   width: 35%;
+   padding: 5px;
+   margin: 20px;
+   border-radius: 10px;
+   background-color: white;
 }
 #texto1 {
 color:aqua 
